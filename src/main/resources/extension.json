@@ -1,7 +1,7 @@
 {
-  "name": "NxTSpawn",
+  "name": "OneChunkTycoon",
   "version": "${project.version}",
-  "description": "NxTSpawn is a plugin that allows you to set your spawnpoint.",
-  "main": "nxt.extensions.NxTSpawn",
+  "description": "A tycoon where you have to build a huge base in one chunk.",
+  "main": "nxt.extensions.OneChunkTycoon",
   "author": "NxTCrew"
 }

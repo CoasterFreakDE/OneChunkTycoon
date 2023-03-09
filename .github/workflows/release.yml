@@ -47,6 +47,6 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: "plugin"
+          name: "Plugin Files"
           path: |
               build/libs/*.jar
